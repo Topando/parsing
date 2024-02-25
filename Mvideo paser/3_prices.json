@@ -1,0 +1,816 @@
+{
+    "success": true,
+    "messages": [],
+    "body": {
+        "materialPrices": [
+            {
+                "productId": "400174502",
+                "price": {
+                    "productId": "400174502",
+                    "basePrice": 99999,
+                    "salePrice": 84999,
+                    "basePromoPrice": 84999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000043061",
+                            "promoName": "Скидка по акции",
+                            "discount": 15000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400174502",
+                    "total": 19550,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4250
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 15300
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10032091",
+                "price": {
+                    "productId": "10032091",
+                    "basePrice": 41999,
+                    "salePrice": 41999,
+                    "discounts": [],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10032091",
+                    "total": 9660,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2100
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 7560
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031388",
+                "price": {
+                    "productId": "10031388",
+                    "basePrice": 43999,
+                    "salePrice": 35999,
+                    "basePromoPrice": 35999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 8000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031388",
+                    "total": 8280,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1800
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 6480
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031389",
+                "price": {
+                    "productId": "10031389",
+                    "basePrice": 61999,
+                    "salePrice": 49999,
+                    "basePromoPrice": 49999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 12000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031389",
+                    "total": 11500,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2500
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 9000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400231481",
+                "price": {
+                    "productId": "400231481",
+                    "basePrice": 51999,
+                    "salePrice": 42999,
+                    "basePromoPrice": 42999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 9000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400231481",
+                    "total": 9890,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2150
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 7740
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031853",
+                "price": {
+                    "productId": "10031853",
+                    "basePrice": 35999,
+                    "salePrice": 34999,
+                    "basePromoPrice": 34999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 1000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031853",
+                    "total": 8050,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1750
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 6300
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400229546",
+                "price": {
+                    "productId": "400229546",
+                    "basePrice": 42999,
+                    "salePrice": 37999,
+                    "basePromoPrice": 37999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 5000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400229546",
+                    "total": 8740,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1900
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 6840
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400125358",
+                "price": {
+                    "productId": "400125358",
+                    "basePrice": 44999,
+                    "salePrice": 39999,
+                    "basePromoPrice": 39999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 5000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400125358",
+                    "total": 9200,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2000
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 7200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400096269",
+                "price": {
+                    "productId": "400096269",
+                    "basePrice": 131999,
+                    "salePrice": 99999,
+                    "basePromoPrice": 99999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 32000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400096269",
+                    "total": 23000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 5000
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 18000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031856",
+                "price": {
+                    "productId": "10031856",
+                    "basePrice": 69999,
+                    "salePrice": 50999,
+                    "basePromoPrice": 50999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 19000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031856",
+                    "total": 11730,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2550
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 9180
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400125365",
+                "price": {
+                    "productId": "400125365",
+                    "basePrice": 99999,
+                    "salePrice": 69999,
+                    "basePromoPrice": 69999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000043061",
+                            "promoName": "Скидка по акции",
+                            "discount": 30000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400125365",
+                    "total": 16100,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3500
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 12600
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400047646",
+                "price": {
+                    "productId": "400047646",
+                    "basePrice": 16999,
+                    "salePrice": 13999,
+                    "basePromoPrice": 13999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000043061",
+                            "promoName": "Скидка по акции",
+                            "discount": 3000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400047646",
+                    "total": 3220,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 700
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 2520
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10030670",
+                "price": {
+                    "productId": "10030670",
+                    "basePrice": 64999,
+                    "salePrice": 59999,
+                    "basePromoPrice": 59999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 5000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10030670",
+                    "total": 13800,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3000
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 10800
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400206385",
+                "price": {
+                    "productId": "400206385",
+                    "basePrice": 29999,
+                    "salePrice": 22999,
+                    "basePromoPrice": 22999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000043061",
+                            "promoName": "Скидка по акции",
+                            "discount": 7000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400206385",
+                    "total": 5290,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1150
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 4140
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031851",
+                "price": {
+                    "productId": "10031851",
+                    "basePrice": 19999,
+                    "salePrice": 16999,
+                    "basePromoPrice": 16999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 3000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031851",
+                    "total": 3910,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 850
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 3060
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10030005",
+                "price": {
+                    "productId": "10030005",
+                    "basePrice": 129999,
+                    "salePrice": 129999,
+                    "discounts": [],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10030005",
+                    "total": 29900,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 6500
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 23400
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400172941",
+                "price": {
+                    "productId": "400172941",
+                    "basePrice": 54999,
+                    "salePrice": 42999,
+                    "basePromoPrice": 42999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000043061",
+                            "promoName": "Скидка по акции",
+                            "discount": 12000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400172941",
+                    "total": 9890,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2150
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 7740
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400174493",
+                "price": {
+                    "productId": "400174493",
+                    "basePrice": 79999,
+                    "salePrice": 64999,
+                    "basePromoPrice": 64999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000043061",
+                            "promoName": "Скидка по акции",
+                            "discount": 15000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "400174493",
+                    "total": 14950,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3250
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 11700
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031854",
+                "price": {
+                    "productId": "10031854",
+                    "basePrice": 46999,
+                    "salePrice": 37999,
+                    "basePromoPrice": 37999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 9000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031854",
+                    "total": 8740,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1900
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 6840
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10032224",
+                "price": {
+                    "productId": "10032224",
+                    "basePrice": 259999,
+                    "salePrice": 214999,
+                    "basePromoPrice": 214999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 45000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10032224",
+                    "total": 49450,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 10750
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 38700
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10030671",
+                "price": {
+                    "productId": "10030671",
+                    "basePrice": 89999,
+                    "salePrice": 69999,
+                    "basePromoPrice": 69999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 20000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10030671",
+                    "total": 16100,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3500
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 12600
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10032186",
+                "price": {
+                    "productId": "10032186",
+                    "basePrice": 154999,
+                    "salePrice": 154999,
+                    "discounts": [],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10032186",
+                    "total": 35650,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 7750
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 27900
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031522",
+                "price": {
+                    "productId": "10031522",
+                    "basePrice": 59999,
+                    "salePrice": 49999,
+                    "basePromoPrice": 49999,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "7000042546",
+                            "promoName": "Скидка по акции",
+                            "discount": 10000
+                        }
+                    ],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031522",
+                    "total": 11500,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2500
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 9000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "10031656",
+                "price": {
+                    "productId": "10031656",
+                    "basePrice": 27999,
+                    "salePrice": 27999,
+                    "discounts": [],
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false
+                },
+                "bonusRubles": {
+                    "productId": "10031656",
+                    "total": 6440,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 1400
+                        },
+                        {
+                            "promoName": "Кешбэк 23% на все",
+                            "bonusType": "490001",
+                            "total": 5040
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

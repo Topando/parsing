@@ -1,0 +1,902 @@
+{
+    "204875890": {
+        "product_name": "Кроссовки Adidas Gazelle",
+        "product_brand": "Sports city",
+        "product_price": 2088.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 7,
+        "product_imgs_url": "https://basket-14.wbbasket.ru/vol2048/part204875/204875890/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/204875890/detail.aspx"
+    },
+    "164284831": {
+        "product_name": "Осенние кроссовки",
+        "product_brand": "KEDDO",
+        "product_price": 2101.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 78,
+        "product_imgs_url": "https://basket-11.wbbasket.ru/vol1642/part164284/164284831/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/164284831/detail.aspx"
+    },
+    "172035510": {
+        "product_name": "New balance",
+        "product_brand": "Кроссовки",
+        "product_price": 1546.0,
+        "product_rating": 4.1,
+        "product_feedbacks": 36,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1720/part172035/172035510/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/172035510/detail.aspx"
+    },
+    "171403330": {
+        "product_name": "Кроссовки Найк Джордан высокие хамелеон",
+        "product_brand": "ROSSI RICCI",
+        "product_price": 1320.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 188,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1714/part171403/171403330/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/171403330/detail.aspx"
+    },
+    "26304262": {
+        "product_name": "Кроссовки женские для спорта",
+        "product_brand": "Ключник",
+        "product_price": 576.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 460,
+        "product_imgs_url": "https://basket-02.wbbasket.ru/vol263/part26304/26304262/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/26304262/detail.aspx"
+    },
+    "182369481": {
+        "product_name": "Кроссовки женские утепленные",
+        "product_brand": "Your Way",
+        "product_price": 1494.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 2431,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1823/part182369/182369481/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/182369481/detail.aspx"
+    },
+    "194038112": {
+        "product_name": "Кроссовки Nike",
+        "product_brand": "SJ ORIGINAL",
+        "product_price": 912.0,
+        "product_rating": 4.2,
+        "product_feedbacks": 172,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol1940/part194038/194038112/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/194038112/detail.aspx"
+    },
+    "184352801": {
+        "product_name": "Кроссовки повседневные стильные для спорта",
+        "product_brand": "Nice Fashion",
+        "product_price": 700.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 42,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1843/part184352/184352801/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/184352801/detail.aspx"
+    },
+    "150040930": {
+        "product_name": "Кроссовки мужские",
+        "product_brand": "AOWEI",
+        "product_price": 1200.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 82,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1500/part150040/150040930/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/150040930/detail.aspx"
+    },
+    "166322165": {
+        "product_name": "Кроссовки баскетбольные мужские KT8",
+        "product_brand": "ANTA",
+        "product_price": 11334.0,
+        "product_rating": 5,
+        "product_feedbacks": 16,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1663/part166322/166322165/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/166322165/detail.aspx"
+    },
+    "177525368": {
+        "product_name": "Кроссовки зимние женские на высокой платформе",
+        "product_brand": "Too Bro",
+        "product_price": 3024.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 156,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1775/part177525/177525368/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/177525368/detail.aspx"
+    },
+    "198309425": {
+        "product_name": "Кроссовки спортивные Nike Air кеды легкие форсы",
+        "product_brand": "LIGHT brand",
+        "product_price": 1664.0,
+        "product_rating": 3.8,
+        "product_feedbacks": 8,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol1983/part198309/198309425/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/198309425/detail.aspx"
+    },
+    "181253781": {
+        "product_name": "Кроссовки зимние с мехом",
+        "product_brand": "adidas",
+        "product_price": 2380.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 182,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1812/part181253/181253781/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/181253781/detail.aspx"
+    },
+    "154869606": {
+        "product_name": "Кроссовки спортивные весенние",
+        "product_brand": "BRIGGS",
+        "product_price": 2231.0,
+        "product_rating": 4.3,
+        "product_feedbacks": 33,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1548/part154869/154869606/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/154869606/detail.aspx"
+    },
+    "66820585": {
+        "product_name": "Кроссовки",
+        "product_brand": "Indigo kids",
+        "product_price": 1104.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 472,
+        "product_imgs_url": "https://basket-04.wbbasket.ru/vol668/part66820/66820585/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/66820585/detail.aspx"
+    },
+    "167855614": {
+        "product_name": "Кроссовки GEL-VENTURE 9",
+        "product_brand": "ASICS",
+        "product_price": 7479.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 50,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1678/part167855/167855614/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/167855614/detail.aspx"
+    },
+    "155163412": {
+        "product_name": "Кроссовки ортопедические бос",
+        "product_brand": "BOS",
+        "product_price": 3521.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 73,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1551/part155163/155163412/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/155163412/detail.aspx"
+    },
+    "139295107": {
+        "product_name": "Кроссовки PEAK Taichi \"6371\"",
+        "product_brand": "PEAK SPORT",
+        "product_price": 3274.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 61,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1392/part139295/139295107/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/139295107/detail.aspx"
+    },
+    "120969346": {
+        "product_name": "Кроссовки демисезонные высокие",
+        "product_brand": "Botizzo",
+        "product_price": 3038.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 1110,
+        "product_imgs_url": "https://basket-09.wbbasket.ru/vol1209/part120969/120969346/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/120969346/detail.aspx"
+    },
+    "202489316": {
+        "product_name": "Кроссовки сникерсы женские кожаные базовые",
+        "product_brand": "KRAUS Collection",
+        "product_price": 2588.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 3830,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol2024/part202489/202489316/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/202489316/detail.aspx"
+    },
+    "183129138": {
+        "product_name": "Кроссовки зимние на меху",
+        "product_brand": "AvelinAZ",
+        "product_price": 1209.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 64,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1831/part183129/183129138/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/183129138/detail.aspx"
+    },
+    "70560977": {
+        "product_name": "Кроссовки весна натуральная кожа",
+        "product_brand": "THOMAS MUNZ",
+        "product_price": 5807.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 317,
+        "product_imgs_url": "https://basket-04.wbbasket.ru/vol705/part70560/70560977/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/70560977/detail.aspx"
+    },
+    "159350570": {
+        "product_name": "Кроссовки мужские хаки спортивные осенние",
+        "product_brand": "PARANORM",
+        "product_price": 1868.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 37,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1593/part159350/159350570/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/159350570/detail.aspx"
+    },
+    "185327383": {
+        "product_name": "Кроссовки спортивные зимние Originals Campus",
+        "product_brand": "Bruno Alves",
+        "product_price": 2240.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 444,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1853/part185327/185327383/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/185327383/detail.aspx"
+    },
+    "158635220": {
+        "product_name": "Кроссовки Gel-Kahana 8",
+        "product_brand": "ASICS",
+        "product_price": 3052.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 259,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1586/part158635/158635220/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/158635220/detail.aspx"
+    },
+    "177185512": {
+        "product_name": "Кроссовки мужские зимние с мехом",
+        "product_brand": "Sultan",
+        "product_price": 1839.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 95,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1771/part177185/177185512/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/177185512/detail.aspx"
+    },
+    "182329558": {
+        "product_name": "Кроссовки спортивные термо",
+        "product_brand": "ASICS",
+        "product_price": 3840.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 3450,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1823/part182329/182329558/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/182329558/detail.aspx"
+    },
+    "172381187": {
+        "product_name": "Кроссовки женские зимние утепленные на платформе",
+        "product_brand": "KRAUS Collection",
+        "product_price": 2294.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 127,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1723/part172381/172381187/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/172381187/detail.aspx"
+    },
+    "170162600": {
+        "product_name": "Кроссовки с аппликацией",
+        "product_brand": "ТВОЕ",
+        "product_price": 575.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 199,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1701/part170162/170162600/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/170162600/detail.aspx"
+    },
+    "171743793": {
+        "product_name": "Зимние кроссовки высокие теплые из натуральной кожи стильные",
+        "product_brand": "X-Plode",
+        "product_price": 3091.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 869,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1717/part171743/171743793/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/171743793/detail.aspx"
+    },
+    "141394449": {
+        "product_name": "Кроссовки с подсветкой",
+        "product_brand": "Blessbox",
+        "product_price": 1161.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 658,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1413/part141394/141394449/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/141394449/detail.aspx"
+    },
+    "61899827": {
+        "product_name": "Кроссовки замшевые натуральные",
+        "product_brand": "STROBBS",
+        "product_price": 7788.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 766,
+        "product_imgs_url": "https://basket-04.wbbasket.ru/vol618/part61899/61899827/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/61899827/detail.aspx"
+    },
+    "171920746": {
+        "product_name": "Кроссовки мужские Millennium 6.0",
+        "product_brand": "ANTA",
+        "product_price": 5286.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 42,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1719/part171920/171920746/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/171920746/detail.aspx"
+    },
+    "127926589": {
+        "product_name": "Ботинки спортивные берцы натуральная кожа и мех",
+        "product_brand": "MARATTI",
+        "product_price": 4367.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 608,
+        "product_imgs_url": "https://basket-09.wbbasket.ru/vol1279/part127926/127926589/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/127926589/detail.aspx"
+    },
+    "189396662": {
+        "product_name": "Кроссовки высокие зимние",
+        "product_brand": "Shevetty style",
+        "product_price": 827.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 350,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1893/part189396/189396662/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/189396662/detail.aspx"
+    },
+    "185740656": {
+        "product_name": "Кроссовки Air Jordan 4 retro Зимние",
+        "product_brand": "",
+        "product_price": 863.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 253,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1857/part185740/185740656/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/185740656/detail.aspx"
+    },
+    "31165781": {
+        "product_name": "Кроссовки летние перфорированная кожа сплошная подошва",
+        "product_brand": "CLOVIS",
+        "product_price": 4484.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 200,
+        "product_imgs_url": "https://basket-03.wbbasket.ru/vol311/part31165/31165781/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/31165781/detail.aspx"
+    },
+    "173928126": {
+        "product_name": "Кроссовки зимние натуральная кожа с мехом",
+        "product_brand": "RS Shoes",
+        "product_price": 3960.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 40,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1739/part173928/173928126/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/173928126/detail.aspx"
+    },
+    "196346619": {
+        "product_name": "Кроссовки повседневные высокие Бона демисезон замша",
+        "product_brand": "BONA",
+        "product_price": 3796.0,
+        "product_rating": 5,
+        "product_feedbacks": 2,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol1963/part196346/196346619/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/196346619/detail.aspx"
+    },
+    "39438268": {
+        "product_name": "Кроссовки из натуральной кожи демисезонные",
+        "product_brand": "Toto Rino",
+        "product_price": 2520.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 10961,
+        "product_imgs_url": "https://basket-03.wbbasket.ru/vol394/part39438/39438268/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/39438268/detail.aspx"
+    },
+    "169572839": {
+        "product_name": "Кроссовки демисезонные",
+        "product_brand": "PIERRE CARDIN",
+        "product_price": 1407.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 39,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1695/part169572/169572839/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/169572839/detail.aspx"
+    },
+    "173660724": {
+        "product_name": "Кроссовки ZIG DYNAMICA 4",
+        "product_brand": "Reebok",
+        "product_price": 4799.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 410,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1736/part173660/173660724/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/173660724/detail.aspx"
+    },
+    "163751863": {
+        "product_name": "Кроссовки Nike Air Force 1 Low x Tiffany & Co",
+        "product_brand": "УНИВЕРСАМ",
+        "product_price": 2528.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 134,
+        "product_imgs_url": "https://basket-11.wbbasket.ru/vol1637/part163751/163751863/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/163751863/detail.aspx"
+    },
+    "150256089": {
+        "product_name": "Кроссовки MOONSLIP-ON",
+        "product_brand": "Ascot",
+        "product_price": 2386.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 43,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1502/part150256/150256089/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/150256089/detail.aspx"
+    },
+    "167972520": {
+        "product_name": "Кроссовки на толстой подошве",
+        "product_brand": "Quattrocomforto",
+        "product_price": 1791.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 77,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1679/part167972/167972520/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/167972520/detail.aspx"
+    },
+    "184233929": {
+        "product_name": "Кроссовки спортивные DC Shoes DC Court Graffik демисезонные",
+        "product_brand": "MMAA Shop",
+        "product_price": 2766.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 262,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1842/part184233/184233929/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/184233929/detail.aspx"
+    },
+    "79466348": {
+        "product_name": "Кроссовки повседневные",
+        "product_brand": "CVMARTANNI",
+        "product_price": 1500.0,
+        "product_rating": 5,
+        "product_feedbacks": 11,
+        "product_imgs_url": "https://basket-05.wbbasket.ru/vol794/part79466/79466348/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/79466348/detail.aspx"
+    },
+    "182626230": {
+        "product_name": "Кроссовки спортивные зимние с мехом утепленные ботинки",
+        "product_brand": "PARIS BACIO",
+        "product_price": 2411.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 488,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1826/part182626/182626230/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/182626230/detail.aspx"
+    },
+    "176575743": {
+        "product_name": "Кеды Campus 00s",
+        "product_brand": "adidas",
+        "product_price": 2360.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 2166,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1765/part176575/176575743/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/176575743/detail.aspx"
+    },
+    "164284809": {
+        "product_name": "Осенние кроссовки на платформе",
+        "product_brand": "KEDDO",
+        "product_price": 1351.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 259,
+        "product_imgs_url": "https://basket-11.wbbasket.ru/vol1642/part164284/164284809/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/164284809/detail.aspx"
+    },
+    "67974928": {
+        "product_name": "Кроссовки спортивные кожаные",
+        "product_brand": "BRIGGS",
+        "product_price": 1519.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 61,
+        "product_imgs_url": "https://basket-04.wbbasket.ru/vol679/part67974/67974928/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/67974928/detail.aspx"
+    },
+    "169884419": {
+        "product_name": "Кроссовки белые на платформе спортивные кеды Баден",
+        "product_brand": "Baden",
+        "product_price": 1741.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 391,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1698/part169884/169884419/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/169884419/detail.aspx"
+    },
+    "184594768": {
+        "product_name": "Кроссовки зимние эко мех",
+        "product_brand": "ASICS",
+        "product_price": 2047.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 238,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1845/part184594/184594768/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/184594768/detail.aspx"
+    },
+    "37622333": {
+        "product_name": "Кроссовки на толстой подошве",
+        "product_brand": "Pulse",
+        "product_price": 1108.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 1624,
+        "product_imgs_url": "https://basket-03.wbbasket.ru/vol376/part37622/37622333/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/37622333/detail.aspx"
+    },
+    "113748954": {
+        "product_name": "Кроссовки мужские кожаные Спортивные кеды легкие Демисезон",
+        "product_brand": "tellson",
+        "product_price": 767.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 142,
+        "product_imgs_url": "https://basket-08.wbbasket.ru/vol1137/part113748/113748954/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/113748954/detail.aspx"
+    },
+    "171743574": {
+        "product_name": "Зимние кроссовки высокие теплые стильные из натуральной кожи",
+        "product_brand": "X-Plode",
+        "product_price": 2389.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 869,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1717/part171743/171743574/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/171743574/detail.aspx"
+    },
+    "176160405": {
+        "product_name": "Кроссовки Air Jordan 4 retro Зимние",
+        "product_brand": "Obumoda",
+        "product_price": 1045.0,
+        "product_rating": 4.3,
+        "product_feedbacks": 1651,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1761/part176160/176160405/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/176160405/detail.aspx"
+    },
+    "151242097": {
+        "product_name": "Кроссовки пинетки детские для малышей",
+        "product_brand": "Baby top top",
+        "product_price": 960.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 115,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1512/part151242/151242097/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/151242097/detail.aspx"
+    },
+    "165397081": {
+        "product_name": "Кроссовки мужские",
+        "product_brand": "Erke",
+        "product_price": 2894.0,
+        "product_rating": 5,
+        "product_feedbacks": 1,
+        "product_imgs_url": "https://basket-11.wbbasket.ru/vol1653/part165397/165397081/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/165397081/detail.aspx"
+    },
+    "178630895": {
+        "product_name": "Ботинки зимние кеды на липучке меховые",
+        "product_brand": "O`SHADE",
+        "product_price": 2907.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 1771,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1786/part178630/178630895/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/178630895/detail.aspx"
+    },
+    "155254997": {
+        "product_name": "Кроссовки осенне-зимние облегченные",
+        "product_brand": "BREMENGEN",
+        "product_price": 2098.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 507,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1552/part155254/155254997/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/155254997/detail.aspx"
+    },
+    "144538096": {
+        "product_name": "Белые кроссовки дышащие спортивные на толстой подошве лето",
+        "product_brand": "X-Plode",
+        "product_price": 1984.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 58,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1445/part144538/144538096/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/144538096/detail.aspx"
+    },
+    "180771451": {
+        "product_name": "Кроссовки утеплённые с мехом унисекс",
+        "product_brand": "ASIYA SHOES",
+        "product_price": 1279.0,
+        "product_rating": 4.3,
+        "product_feedbacks": 885,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1807/part180771/180771451/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/180771451/detail.aspx"
+    },
+    "169902553": {
+        "product_name": "Кеды и кроссовки натуральная кожа замша",
+        "product_brand": "O`SHADE",
+        "product_price": 2777.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 10,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1699/part169902/169902553/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/169902553/detail.aspx"
+    },
+    "142374730": {
+        "product_name": "Кроссовки демисезонные молодежные джорданы",
+        "product_brand": "kedshop",
+        "product_price": 2041.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 222,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1423/part142374/142374730/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/142374730/detail.aspx"
+    },
+    "143928757": {
+        "product_name": "Кроссовки и кеды",
+        "product_brand": "SabiBags",
+        "product_price": 1760.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 338,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1439/part143928/143928757/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/143928757/detail.aspx"
+    },
+    "165149872": {
+        "product_name": "Кроссовки Alphabounce 1",
+        "product_brand": "adidas",
+        "product_price": 3839.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 21,
+        "product_imgs_url": "https://basket-11.wbbasket.ru/vol1651/part165149/165149872/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/165149872/detail.aspx"
+    },
+    "37040391": {
+        "product_name": "Демисезонные кроссовки на шнуровке",
+        "product_brand": "Pulse",
+        "product_price": 1653.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 314,
+        "product_imgs_url": "https://basket-03.wbbasket.ru/vol370/part37040/37040391/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/37040391/detail.aspx"
+    },
+    "156489761": {
+        "product_name": "Кроссовки",
+        "product_brand": "GilaBunny",
+        "product_price": 1228.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 1307,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1564/part156489/156489761/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/156489761/detail.aspx"
+    },
+    "151839051": {
+        "product_name": "Кроссовки натуральная кожа летние",
+        "product_brand": "O`SHADE",
+        "product_price": 2729.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 463,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1518/part151839/151839051/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/151839051/detail.aspx"
+    },
+    "167647380": {
+        "product_name": "Кроссовки для девочки",
+        "product_brand": "Сказка",
+        "product_price": 1236.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 42,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1676/part167647/167647380/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/167647380/detail.aspx"
+    },
+    "159837305": {
+        "product_name": "Кроссовки демисезонные на платформе натуральная кожа",
+        "product_brand": "DESTRA TREND",
+        "product_price": 3784.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 165,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1598/part159837/159837305/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/159837305/detail.aspx"
+    },
+    "173191227": {
+        "product_name": "Кроссовки белые кеды летние легкие",
+        "product_brand": "Badalli",
+        "product_price": 1269.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 2880,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1731/part173191/173191227/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/173191227/detail.aspx"
+    },
+    "170362938": {
+        "product_name": "Кроссовки кожаные зимние утепленные кеды",
+        "product_brand": "Bludo",
+        "product_price": 3681.0,
+        "product_rating": 4.9,
+        "product_feedbacks": 20,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1703/part170362/170362938/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/170362938/detail.aspx"
+    },
+    "172575348": {
+        "product_name": "Кроссовки спортивные детские на липучке легкие",
+        "product_brand": "Antilopa",
+        "product_price": 1657.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 70,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1725/part172575/172575348/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/172575348/detail.aspx"
+    },
+    "166260362": {
+        "product_name": "Кроссовки",
+        "product_brand": "LI-NING",
+        "product_price": 3387.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 26,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1662/part166260/166260362/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/166260362/detail.aspx"
+    },
+    "178663440": {
+        "product_name": "Кроссовки высокие весенние Джордан",
+        "product_brand": "MILESHABRAND",
+        "product_price": 1152.0,
+        "product_rating": 4.9,
+        "product_feedbacks": 57,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1786/part178663/178663440/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/178663440/detail.aspx"
+    },
+    "182040590": {
+        "product_name": "Кроссовки зимние высокие с мехом",
+        "product_brand": "Bottic",
+        "product_price": 4000.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 296,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1820/part182040/182040590/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/182040590/detail.aspx"
+    },
+    "181674614": {
+        "product_name": "кроссовки зимние",
+        "product_brand": "Nike",
+        "product_price": 972.0,
+        "product_rating": 3.7,
+        "product_feedbacks": 287,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1816/part181674/181674614/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/181674614/detail.aspx"
+    },
+    "62664019": {
+        "product_name": "Кроссовки спортивные текстильные",
+        "product_brand": "STROBBS",
+        "product_price": 2880.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 129,
+        "product_imgs_url": "https://basket-04.wbbasket.ru/vol626/part62664/62664019/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/62664019/detail.aspx"
+    },
+    "203295287": {
+        "product_name": "Кроссовки мужские puma дышащие для бега",
+        "product_brand": "MAD KICKS",
+        "product_price": 2061.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 77,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol2032/part203295/203295287/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/203295287/detail.aspx"
+    },
+    "180343496": {
+        "product_name": "Кроссовки KAPTIR 2.0",
+        "product_brand": "adidas",
+        "product_price": 5807.0,
+        "product_rating": 5,
+        "product_feedbacks": 2,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1803/part180343/180343496/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/180343496/detail.aspx"
+    },
+    "178006327": {
+        "product_name": "Кроссовки зимние из натуральной кожи утепленные",
+        "product_brand": "Baden",
+        "product_price": 3492.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 126,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1780/part178006/178006327/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/178006327/detail.aspx"
+    },
+    "171743765": {
+        "product_name": "Мягкие кроссовки теплые на платформе из натуральной кожи",
+        "product_brand": "X-Plode",
+        "product_price": 3500.0,
+        "product_rating": 4.7,
+        "product_feedbacks": 1309,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1717/part171743/171743765/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/171743765/detail.aspx"
+    },
+    "169732960": {
+        "product_name": "Кроссовки зимние на платформе",
+        "product_brand": "PIERRE CARDIN",
+        "product_price": 3806.0,
+        "product_rating": 4.4,
+        "product_feedbacks": 28,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1697/part169732/169732960/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/169732960/detail.aspx"
+    },
+    "162865473": {
+        "product_name": "Кроссовки ортопедические бос",
+        "product_brand": "BOS",
+        "product_price": 3620.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 82,
+        "product_imgs_url": "https://basket-11.wbbasket.ru/vol1628/part162865/162865473/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/162865473/detail.aspx"
+    },
+    "166074781": {
+        "product_name": "Кроссовки",
+        "product_brand": "ASICS",
+        "product_price": 3024.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 209,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1660/part166074/166074781/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/166074781/detail.aspx"
+    },
+    "178425383": {
+        "product_name": "кроссовки мужские",
+        "product_brand": "Laconia",
+        "product_price": 1353.0,
+        "product_rating": 4.1,
+        "product_feedbacks": 370,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1784/part178425/178425383/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/178425383/detail.aspx"
+    },
+    "184325849": {
+        "product_name": "Кроссовки зимние высокие утепленные с мехом",
+        "product_brand": "Nimat Shoes",
+        "product_price": 1033.0,
+        "product_rating": 3.6,
+        "product_feedbacks": 18,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1843/part184325/184325849/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/184325849/detail.aspx"
+    },
+    "187524734": {
+        "product_name": "Кроссовки демисезонные утепленные",
+        "product_brand": "ECCO",
+        "product_price": 3876.0,
+        "product_rating": 4.2,
+        "product_feedbacks": 17,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1875/part187524/187524734/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/187524734/detail.aspx"
+    },
+    "176270439": {
+        "product_name": "Кроссовки термо",
+        "product_brand": "Columbia",
+        "product_price": 1919.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 2328,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1762/part176270/176270439/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/176270439/detail.aspx"
+    },
+    "172194548": {
+        "product_name": "Кроссовки спортивные на широкую ногу великан",
+        "product_brand": "OTIDS",
+        "product_price": 1199.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 176,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1721/part172194/172194548/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/172194548/detail.aspx"
+    },
+    "169865733": {
+        "product_name": "Кроссовки зимние утепленные",
+        "product_brand": "STROBBS",
+        "product_price": 3092.0,
+        "product_rating": 4.8,
+        "product_feedbacks": 161,
+        "product_imgs_url": "https://basket-12.wbbasket.ru/vol1698/part169865/169865733/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/169865733/detail.aspx"
+    },
+    "134846804": {
+        "product_name": "Кроссовки ROYAL COMPLETE CLN2",
+        "product_brand": "Reebok",
+        "product_price": 2255.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 1581,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1348/part134846/134846804/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/134846804/detail.aspx"
+    },
+    "201966759": {
+        "product_name": "кроссовки мужские женские adidas самба",
+        "product_brand": "BARZU",
+        "product_price": 2184.0,
+        "product_rating": 4.1,
+        "product_feedbacks": 10,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol2019/part201966/201966759/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/201966759/detail.aspx"
+    },
+    "84941729": {
+        "product_name": "Кроссовки женские для спорта и фитнеса",
+        "product_brand": "Ключник",
+        "product_price": 576.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 4552,
+        "product_imgs_url": "https://basket-05.wbbasket.ru/vol849/part84941/84941729/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/84941729/detail.aspx"
+    },
+    "71740405": {
+        "product_name": "Кроссовки",
+        "product_brand": "CABALLO BLANCO",
+        "product_price": 1568.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 39,
+        "product_imgs_url": "https://basket-04.wbbasket.ru/vol717/part71740/71740405/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/71740405/detail.aspx"
+    },
+    "110605226": {
+        "product_name": "Кроссовки",
+        "product_brand": "RUSTEP",
+        "product_price": 2576.0,
+        "product_rating": 4.6,
+        "product_feedbacks": 91,
+        "product_imgs_url": "https://basket-07.wbbasket.ru/vol1106/part110605/110605226/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/110605226/detail.aspx"
+    },
+    "158045487": {
+        "product_name": "кроссовки",
+        "product_brand": "ROSSI RICCI",
+        "product_price": 1215.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 553,
+        "product_imgs_url": "https://basket-10.wbbasket.ru/vol1580/part158045/158045487/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/158045487/detail.aspx"
+    },
+    "194291434": {
+        "product_name": "кроссовки мужские зимние adidas marathon",
+        "product_brand": "ADANRI",
+        "product_price": 1728.0,
+        "product_rating": 4.5,
+        "product_feedbacks": 470,
+        "product_imgs_url": "https://basket-13.wbbasket.ru/vol1942/part194291/194291434/images/c516x688/1.webp",
+        "product_url": "https://www.wildberries.ru/catalog/194291434/detail.aspx"
+    }
+}
